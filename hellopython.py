@@ -1,3 +1,3 @@
 __author__ = 'dchuiko'
 
-print 'Hello Python!'
+print 'Hello Python World!'
